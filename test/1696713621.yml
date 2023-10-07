@@ -1,0 +1,14 @@
+puzzle:
+  board:
+    - "ae"
+    - "st"
+  words:
+    - "east"
+    - "eats"
+    - "sate"
+    - "seat"
+    - "teas"
+  optional-words:
+    - "seta"
+    - "ates"
+    - "etas"
