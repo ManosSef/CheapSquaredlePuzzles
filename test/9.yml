@@ -1,4 +1,8 @@
 puzzle:
+  difficulty: 1
+  intro:
+    title: "Warning"
+    message: "This puzzle contains words that are not in the NWL2020 word list."
   board:
     - "fool"
     - "arco"
@@ -53,8 +57,4 @@ puzzle:
     - "colory"
     - "ocracy"
     - "foolocracy"
-  difficulty: 1
   word-of-the-day: "foolocracy"
-  intro:
-    title: "Warning"
-    message: "This puzzle contains words that are not in the NWL2020 word list."
