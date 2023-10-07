@@ -1,0 +1,8 @@
+puzzle:
+  board:
+    - "uiz"
+    - "lqz"
+    - "aci"
+  words:
+    - "quiz"
+    - "quizzical"
