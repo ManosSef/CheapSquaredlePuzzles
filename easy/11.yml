@@ -1,4 +1,5 @@
 puzzle:
+  difficulty: 2
   board:
     - "lhbo"
     - "ciud"
