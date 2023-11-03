@@ -57,4 +57,6 @@ puzzle:
     - "colory"
     - "ocracy"
     - "foolocracy"
-  word-of-the-day: "foolocracy"
+  word-of-the-day: 
+    term: "foolocracy"
+    message: "The state of being governed by fools.\nThis puzzle is the 2023 April Fools' puzzle, but with the word lists switched so it looks like a normal puzzle."
