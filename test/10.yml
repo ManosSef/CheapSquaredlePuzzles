@@ -81,4 +81,5 @@ puzzle:
     - "upas"
     - "ursae"
     - "vaus"
-  word-of-the-day: "ruminal"
+  word-of-the-day:
+    term: "ruminal"
