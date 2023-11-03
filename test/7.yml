@@ -60,4 +60,5 @@ puzzle:
     - "pelade"
     - "pepla"
     - "rale"
-  word-of-the-day: "parallelepipedal"
+  word-of-the-day: 
+    term: "parallelepipedal"
