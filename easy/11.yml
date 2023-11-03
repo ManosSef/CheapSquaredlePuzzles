@@ -60,4 +60,7 @@ puzzle:
     - "syph"
     - "typic"
     - "yipe"
-  word-of-the-day: "hutzpa"
+  word-of-the-day:
+    term: "hutzpa"
+    pronunciation: "HOOTS-pa"
+    message: "Alternative form of chutzpah. Other alternative forms include hutzpah, khutzpah, khutspah, chutspa, chutspah, chutzpa and khutspe."
