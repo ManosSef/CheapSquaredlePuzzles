@@ -106,4 +106,5 @@ puzzle:
   difficulty: 3.5
   word-of-the-day:
     term: "auteur"
+    pronunciation: "aut-ERR"
     message: "A film director, especially when thought of as the creator of a particular genre and carrying a personal stamp."
