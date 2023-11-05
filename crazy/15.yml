@@ -148,7 +148,7 @@ puzzle:
     - "oftener"
     - "treeing"
     - "venenes"
-  difficulty: 5.5
+  difficulty: 5
   word-of-the-day:
     term: "teener"
     message: "A teenager."
