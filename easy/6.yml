@@ -35,3 +35,6 @@ puzzle:
     - "sitrep"
     - "stey"
     - "tref"
+  word-of-the-day:
+    term: "sitrep"
+    message: "A report on a military position."
