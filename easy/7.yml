@@ -1,5 +1,5 @@
 puzzle:
-  difficulty: 2.5
+  difficulty: 1.5
   board:
     - "rpal"
     - "aade"
@@ -13,6 +13,7 @@ puzzle:
     - "lead"
     - "leap"
     - "pale"
+    - "pall"
     - "pear"
     - "peed"
     - "peel"
@@ -37,7 +38,6 @@ puzzle:
     - "leal"
     - "lear"
     - "lede"
-    - "pall"
     - "palp"
     - "para"
     - "peal"
