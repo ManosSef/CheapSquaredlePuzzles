@@ -1,0 +1,11 @@
+puzzle:
+  board:
+    - "th"
+    - "is"
+  words:
+    - "hits"
+    - "shit"
+    - "this"
+  optional-words:
+    - "hist"
+    - "sith"
