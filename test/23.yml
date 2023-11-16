@@ -1,0 +1,8 @@
+puzzle:
+  board:
+    - "cr"
+    - "ap"
+  words:
+    - "crap"
+  optional-words:
+    - "carp"
