@@ -1,7 +1,7 @@
 puzzle:
   intro:
     title: "Michael's Challenge"
-    message: "This is currently the best attempt at the puzzle challenge given by the developer of Squaredle on his Discord server. See if you can figure out the challenge!"
+    message: "This is currently the best attempt at the puzzle challenge given by the developer of Squaredle in his Discord server. See if you can figure out the challenge!"
   board:
     - "wiet"
     - "nhie"
@@ -32,4 +32,4 @@ puzzle:
     - "whiney"
   word-of-the-day:
     term: "winy"
-    message: "Having the qualities of wine.\n\nThis puzzle was sent by Craig3141 on Squaredle's Discord server."
+    message: "Having the qualities of wine.\n\nThis puzzle was sent by Craig3141 in Squaredle's Discord server."
