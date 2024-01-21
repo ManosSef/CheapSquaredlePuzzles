@@ -32,4 +32,7 @@ puzzle:
     - "whiney"
   word-of-the-day:
     term: "winy"
-    message: "Having the qualities of wine.\n\nThis puzzle was sent by Craig3141 in Squaredle's Discord server."
+    message: "Having the qualities of wine."
+  credits:
+    author: "Craig3141"
+    is-discord: true
