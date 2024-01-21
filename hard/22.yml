@@ -156,4 +156,7 @@ puzzle:
   difficulty: 4.5
   word-of-the-day:
     term: "ragwort"
-    message: "A common coarse yellow-headed composite weed of pastures.\n\nThis puzzle was sent by Razorflame in Squaredle's Discord server."
+    message: "A common coarse yellow-headed composite weed of pastures."
+  credits:
+    author: "Razorflame"
+    is-discord: true
