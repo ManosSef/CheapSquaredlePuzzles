@@ -65,4 +65,7 @@ puzzle:
   difficulty: 3
   word-of-the-day:
     term: "amalgam"
-    message: "An alloy of mercury with another metal.\n\nThis puzzle was sent by RollingMidzi in Squaredle's Discord server."
+    message: "An alloy of mercury with another metal."
+  credits:
+    author: "RollingMidzi"
+    is-discord: true
