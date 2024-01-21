@@ -101,4 +101,7 @@ puzzle:
   difficulty: 4
   word-of-the-day:
     term: "sicky"
-    message: "A day taken off work, usually because of sickness.\n\nThis puzzle was sent by RollingMidzi in Squaredle's Discord server."
+    message: "A day taken off work, usually because of sickness."
+  credits:
+    author: "RollingMidzi"
+    is-discord: true
