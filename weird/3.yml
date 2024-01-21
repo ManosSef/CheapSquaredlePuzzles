@@ -6,3 +6,6 @@ puzzle:
   words:
     - "etiquette"
   optional-words: []
+  credits:
+    author: "wwwDw"
+    is-discord: true
