@@ -7,3 +7,6 @@ puzzle:
     - "quiz"
     - "quizzical"
   optional-words: []
+  credits:
+    author: "wwwDw"
+    is-discord: true
