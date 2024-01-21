@@ -33,4 +33,7 @@ puzzle:
     - "yages"
   word-of-the-day:
     term: "loxes"
-    message: "Third-person singular simple present form of lox, which means to supply with loxygen (liquid oxygen).\n\nThis puzzle was created by Rodimus17."
+    message: "Third-person singular simple present form of lox, which means to supply with loxygen (liquid oxygen)."
+  credits:
+    author: "Rodimus17"
+    is-discord: false
