@@ -47,7 +47,10 @@ puzzle:
     - "furmity"
   word-of-the-day:
     term: "furmity"
-    message: "A porridge made by boiling hulled wheat, typically with additional ingredients such as milk, egg yolks, and/or almond milk, traditionally served with venison or porpoise.\n\nThis puzzle was sent by KrispyKreme in Squaredle's Discord server."
+    message: "A porridge made by boiling hulled wheat, typically with additional ingredients such as milk, egg yolks, and/or almond milk, traditionally served with venison or porpoise."
   intro:
     title: "Michael's Challenge #2"
     message: "This is a another attempt at the challenge from puzzle #25, but this one has enough words to be a normal puzzle!"
+  credits:
+    author: "KrispyKreme"
+    is-discord: true
