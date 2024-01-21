@@ -56,4 +56,7 @@ puzzle:
   difficulty: 1.5
   word-of-the-day:
     term: "gelati"
-    message: "An Italian type of ice cream.\n\nThis puzzle was sent by IActuallyCare in Squaredle's Discord server."
+    message: "An Italian type of ice cream."
+  credits:
+    author: "IActuallyCare"
+    is-discord: true
