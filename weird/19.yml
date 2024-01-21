@@ -71,4 +71,7 @@ puzzle:
   difficulty: 3
   word-of-the-day:
     term: "stelar"
-    message: "Relating to a stele, an upright stone slab.\n\nThis puzzle was sent by IActuallyCare in Squaredle's Discord server."
+    message: "Relating to a stele, an upright stone slab."
+  credits:
+    author: "IActuallyCare"
+    is-discord: true
