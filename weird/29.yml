@@ -1,0 +1,34 @@
+puzzle:
+  board:
+    - "ullllltll"
+    - "v b   !  "
+    - "     b!  "
+    - "      !  "
+    - "   aaau  "
+    - "ptbrrr   "
+    - "!o!   b a"
+    - "io!  pttb"
+    - "!o!  !oo!"
+  words:
+    - "atop"
+    - "aura"
+    - "boot"
+    - "toot"
+    - "taboo"
+  optional-words:
+    - "batt"
+    - "bota"
+    - "bott"
+    - "brrr"
+    - "otto"
+    - "aurar"
+    - "potto"
+  word-of-the-day:
+    term: "brrr"
+    message: "The sound someone who is cold might make. Even though this puzzle doesn't have any vowels in good spots next to consonants, it still contains cool words like this one!"
+  intro:
+    title: "That Joke"
+    message: "Okay, so this joke has been blowing up recently, and I couldn't not include this puzzle for that reason."
+  credits:
+    author: "ogorota"
+    is-discord: true
