@@ -1,0 +1,16 @@
+puzzle:
+  board:
+    - "iuja"
+    - "zqzz"
+    - "lxkw"
+    - "ynno"
+  words:
+    - "jazz"
+    - "know"
+    - "lynx"
+    - "quiz"
+  optional-words:
+    - "wonk"
+  credits:
+    author: "Lasersharp"
+    is-discord: true
