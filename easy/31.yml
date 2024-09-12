@@ -1,0 +1,46 @@
+puzzle:
+  board:
+    - "abek"
+    - "anee"
+    - "abep"
+    - "aner"
+  words:
+    - "babe"
+    - "banana"
+    - "bane"
+    - "beekeeper"
+    - "been"
+    - "beep"
+    - "beeper"
+    - "beer"
+    - "kebab"
+    - "keen"
+    - "keep"
+    - "keeper"
+    - "naan"
+    - "nana"
+    - "peek"
+    - "peen"
+    - "peer"
+    - "preen"
+    - "reek"
+  optional-words:
+    - "baba"
+    - "beebee"
+    - "bene"
+    - "epee"
+    - "keener"
+    - "nabe"
+    - "neep"
+    - "nene"
+    - "peebeen"
+    - "peke"
+    - "pere"
+    - "pree"
+  word-of-the-day:
+    term: "peebeen"
+    message: "A large, hardwood, evergreen tree."
+  difficulty: 1.0
+  credits:
+    author: "jamesletsitrip"
+    is-discord: true
