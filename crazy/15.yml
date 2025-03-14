@@ -152,3 +152,6 @@ puzzle:
   word-of-the-day:
     term: "teener"
     message: "A teenager."
+  credits:
+    author: "ManosSef"
+    is-discord: false
