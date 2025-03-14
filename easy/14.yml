@@ -55,3 +55,6 @@ puzzle:
   word-of-the-day:
     term: "seaware"
     message: "Seaweed used as fertilizer."
+  credits:
+    author: "ManosSef"
+    is-discord: false
