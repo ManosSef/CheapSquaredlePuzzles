@@ -67,3 +67,6 @@ puzzle:
     term: "hutzpa"
     pronunciation: "HOOTS-pa"
     message: "Alternative form of chutzpah. Other alternative forms include hutzpah, khutzpah, khutspah, chutspa, chutspah, chutzpa and khutspe."
+  credits:
+    author: "ManosSef"
+    is-discord: false
