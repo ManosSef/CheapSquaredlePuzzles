@@ -38,3 +38,6 @@ puzzle:
   word-of-the-day:
     term: "sitrep"
     message: "A report on a military position."
+  credits:
+    author: "ManosSef"
+    is-discord: false
