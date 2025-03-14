@@ -85,3 +85,6 @@ puzzle:
   word-of-the-day:
     term: "noes"
     message: "Plural of no. Mostly used to refer to votes opposed to a proposition."
+  credits:
+    author: "ManosSef"
+    is-discord: false
