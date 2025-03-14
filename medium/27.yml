@@ -98,3 +98,6 @@ puzzle:
   word-of-the-day:
     term: "djin"
     message: "One of a class of spirits in muslim theology."
+  credits:
+    author: "ManosSef"
+    is-discord: false
