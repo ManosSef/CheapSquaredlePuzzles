@@ -112,3 +112,6 @@ puzzle:
     term: "auteur"
     pronunciation: "aut-ERR"
     message: "A film director, especially when thought of as the creator of a particular genre and carrying a personal stamp."
+  credits:
+    author: "ManosSef"
+    is-discord: false
