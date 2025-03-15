@@ -1,7 +1,4 @@
 puzzle:
-  intro:
-    title: "Michael's Challenge"
-    message: "This is currently the best attempt at the puzzle challenge given by the developer of Squaredle in his Discord server. See if you can figure out the challenge!"
   board:
     - "wiet"
     - "nhie"
@@ -12,27 +9,31 @@ puzzle:
     - "when"
     - "whet"
     - "whey"
-    - "whin"
+    - "whine"
+    - "whiner"
+    - "whiny"
     - "whit"
+    - "white"
+    - "whiteout"
     - "whiz"
     - "wine"
-    - "whine"
-    - "whiny"
-    - "white"
     - "winery"
-    - "whiteout"
   optional-words:
+    - "outie"
     - "tein"
     - "tiyn"
     - "toit"
-    - "winy"
     - "tuyer"
-    - "winey"
-    - "whiner"
+    - "whin"
     - "whiney"
+    - "winey"
+    - "winy"
   word-of-the-day:
     term: "winy"
     message: "Having the qualities of wine."
   credits:
     author: "Craig3141"
     is-discord: true
+  intro:
+    title: "Michael's Challenge"
+    message: "This is currently the best attempt at the puzzle challenge given by the developer of Squaredle in his Discord server. See if you can figure out the challenge!"
