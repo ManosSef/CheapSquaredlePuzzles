@@ -9,7 +9,7 @@ puzzle:
     - "seat"
     - "teas"
   optional-words:
-    - "seta"
     - "ates"
     - "etas"
+    - "seta"
     - "tase"
