@@ -3,6 +3,6 @@ puzzle:
     - "cr"
     - "ap"
   words:
-    - "crap"
-  optional-words:
     - "carp"
+    - "crap"
+  optional-words: []
