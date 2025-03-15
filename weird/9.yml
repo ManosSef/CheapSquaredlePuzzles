@@ -1,8 +1,4 @@
 puzzle:
-  difficulty: 1
-  intro:
-    title: "Warning"
-    message: "This puzzle contains words that are not in the NWL2020 word list."
   board:
     - "fool"
     - "arco"
@@ -60,3 +56,7 @@ puzzle:
   word-of-the-day: 
     term: "foolocracy"
     message: "The state of being governed by fools.\nThis puzzle is the 2023 April Fools' puzzle, but with the word lists switched so it looks like a normal puzzle."
+  difficulty: 1.0
+  intro:
+    title: "Warning"
+    message: "This puzzle contains words that are not in the NWL2020 word list."
