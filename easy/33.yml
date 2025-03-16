@@ -5,6 +5,7 @@ puzzle:
     - "mry"
   words:
     - "ache"
+    - "achier"
     - "achy"
     - "care"
     - "chai"
@@ -23,7 +24,6 @@ puzzle:
     - "rain"
     - "rein"
   optional-words:
-    - "achier"
     - "areic"
     - "cahier"
     - "cain"
