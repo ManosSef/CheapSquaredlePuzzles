@@ -59,4 +59,4 @@ puzzle:
   difficulty: 1.0
   intro:
     title: "Warning"
-    message: "This puzzle contains words that are not in the NWL2020 word list."
+    message: "This puzzle contains words that are not in the NWL2023 word list."
