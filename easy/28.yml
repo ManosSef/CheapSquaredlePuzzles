@@ -53,5 +53,5 @@ puzzle:
     author: "KrispyKreme"
     is-discord: true
   intro:
-    title: "Michael's Challenge #2"
-    message: "This is a another attempt at the challenge from puzzle #25, but this one has enough words to be a normal puzzle!"
+    title: "Michael's Challenge"
+    message: "This is currently the best attempt at the puzzle challenge given by the developer of Squaredle in his Discord server. See if you can figure out the challenge!"
