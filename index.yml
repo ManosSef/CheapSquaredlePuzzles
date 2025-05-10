@@ -5,7 +5,7 @@ category-index:
   2: weird
   3: weird
   4: weird
-  5: weird
+# 5: weird
   6: easy
 # 7: easy
   8: test
@@ -44,3 +44,9 @@ category-index:
   41: hard
   42: hard
   43: hard
+  44: weird
+  45: weird
+  46: hard
+  47: weird
+  48: weird
+  49: weird

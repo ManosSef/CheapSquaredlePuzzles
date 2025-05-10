@@ -1,0 +1,30 @@
+puzzle:
+  board:
+    - "yirb"
+    - "tkvg"
+    - "wiej"
+    - "tcob"
+  words:
+    - "city"
+    - "evict"
+    - "grit"
+    - "object"
+    - "objectivity"
+    - "tiki"
+    - "twice"
+    - "twit"
+    - "tyke"
+    - "vice"
+  optional-words:
+    - "brit"
+    - "rive"
+    - "tike"
+    - "titi"
+    - "wiki"
+    - "wive"
+  word-of-the-day:
+    term: "titi"
+    message: "A small forest-dwelling monkey of South America."
+  intro:
+    title: "Pocket-sized puzzle"
+    message: "This puzzle only has 10 words, yet no unused letters!"

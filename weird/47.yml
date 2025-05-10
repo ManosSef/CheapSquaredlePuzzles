@@ -1,0 +1,22 @@
+puzzle:
+  board:
+    - "uino"
+    - "eqxh"
+    - "nxmp"
+    - "ylly"
+  words:
+    - "equinox"
+    - "lymph"
+    - "lynx"
+  optional-words:
+    - "phon"
+    - "quin"
+  word-of-the-day:
+    term: "phon"
+    message: "A unit for measuring the perceived loudness of sounds."
+  credits:
+    author: "ManosSef"
+    is-discord: false
+  intro:
+    title: "Minuscule puzzle"
+    message: "This puzzle only has 3 words, yet no unused letters!"

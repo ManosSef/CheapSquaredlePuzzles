@@ -1,0 +1,23 @@
+puzzle:
+  board:
+    - "euin"
+    - "tqxo"
+    - "etqi"
+    - "eute"
+  words:
+    - "equinox"
+    - "etiquette"
+  optional-words:
+    - "etui"
+    - "nixie"
+    - "quin"
+    - "tutee"
+  word-of-the-day:
+    term: "tutee"
+    message: "A student or pupil of a tutor."
+  credits:
+    author: "ManosSef"
+    is-discord: false
+  intro:
+    title: "Smallest possible 4x4"
+    message: "This puzzle only has 2 words, yet no unused letters!"

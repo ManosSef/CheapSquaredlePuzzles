@@ -1,0 +1,35 @@
+puzzle:
+  board:
+    - "dlnk"
+    - "ibbo"
+    - "qwai"
+    - "uidt"
+  words:
+    - "bait"
+    - "boat"
+    - "bonk"
+    - "knob"
+    - "liquid"
+    - "liquidation"
+    - "quid"
+    - "wait"
+    - "wild"
+  optional-words:
+    - "adit"
+    - "bawd"
+    - "bidi"
+    - "bilbo"
+    - "bilboa"
+    - "dita"
+    - "libation"
+    - "obia"
+    - "obit"
+    - "oidia"
+    - "tabid"
+    - "wadi"
+  word-of-the-day:
+    term: "bilbo"
+    message: "A sword used in former times, noted for the temper and elasticity of its blade."
+  intro:
+    title: "Pocket-sized puzzle #2"
+    message: "This puzzle only has 9 words, yet no unused letters!"
