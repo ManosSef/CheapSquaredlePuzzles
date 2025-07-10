@@ -11,6 +11,9 @@ puzzle:
     - "quiz"
   optional-words:
     - "wonk"
+  word-of-the-day:
+    term: "wonk"
+    message: "What someone that is wonky is characteristic of, arcane details or procedures in a specialized field."
   credits:
     author: "LasersharpAurora"
     is-discord: true

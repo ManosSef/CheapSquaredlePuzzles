@@ -1,5 +1,3 @@
-authorized-players:
-  - ManosSef
 category-index:
   1: test
   2: weird
@@ -9,7 +7,7 @@ category-index:
   6: easy
 # 7: easy
   8: test
-  9: weird
+# 9: weird
   10: weird
   11: easy
   12: medium
@@ -50,3 +48,54 @@ category-index:
   47: weird
   48: weird
   49: weird
+  50: hard
+  51: medium
+  52: easy
+  53: easy
+  54: hard
+  55: easy
+  56: easy
+  57: medium
+  58: medium
+  59: medium
+  60: medium
+  61: medium
+  62: medium
+  63: medium
+  64: hard
+  65: easy
+  66: medium
+  67: hard
+  68: medium
+  69: hard
+  70: hard
+  71: hard
+  72: medium
+  73: easy
+  74: medium
+  75: medium
+  76: medium
+  77: easy
+  78: easy
+  79: medium
+  80: hard
+  81: hard
+  82: hard
+  83: easy
+  84: medium
+  85: easy
+  86: easy
+  87: easy
+  88: hard
+  89: hard
+  90: medium
+  91: hard
+  92: medium
+  93: hard
+  94: hard
+  95: medium
+  96: easy
+  97: easy
+  98: easy
+  99: hard
+  100: crazy

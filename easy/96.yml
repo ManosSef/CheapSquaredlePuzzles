@@ -1,0 +1,28 @@
+puzzle:
+  board:
+    - "ued"
+    - "dus"
+    - "bty"
+  words:
+    - "buds"
+    - "bused"
+    - "bust"
+    - "busty"
+    - "busy"
+    - "buts"
+    - "buys"
+    - "dude"
+    - "dudes"
+    - "duds"
+    - "dues"
+    - "dust"
+    - "dusty"
+    - "duty"
+    - "stub"
+    - "stud"
+    - "subdue"
+    - "subdued"
+    - "sued"
+    - "used"
+  optional-words: []
+  difficulty: 1.0
