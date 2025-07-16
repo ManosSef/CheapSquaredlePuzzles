@@ -26,3 +26,6 @@ puzzle:
     - "used"
   optional-words: []
   difficulty: 1.0
+  intro:
+    title: "Something missing?"
+    message: "This puzzle has no bonus words!"
